@@ -1,0 +1,18 @@
+body{
+	background-color: lightblue;
+	color: yellow;
+	font-family: Monospace;
+	font-size: 23px;
+	background-position : center;
+	
+}
+
+h1{	
+	background-color: pink;
+	text-align: center;
+}
+
+p{
+	text-align: justify;
+	border : 3px solid pink;
+}
